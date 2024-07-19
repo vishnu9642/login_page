@@ -1,0 +1,40 @@
+body{
+    background: fixed;
+    background-image: url('background3.jpg');
+    background-size: cover;
+    background-position: center;
+}
+#hi{
+    color: white;
+    text-align: center;
+}
+.center{
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    opacity: 0.7;
+    border-radius: 15px;
+}
+label{
+    color: white;
+}
+.login_info{
+    width: 20%;
+    margin-top: -27%;
+    margin-left: 50%;
+    position: relative;
+    padding:20px
+}
+.forget_password{
+    color: white;
+}
+input{
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    background: none;
+    color: white;
+    border-bottom-color: wheat;
+}
+
